@@ -1,0 +1,41 @@
+body {
+    max-width: 1940px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.grad {
+    background-image: url('back1.jpeg');
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+}
+
+#cab1 {
+    float: right;
+}
+
+#footer {
+    background-color: black;
+}
+
+.pdg {
+    padding: 8%;
+}
+
+.pdgtb {
+    padding: 2% 0%;
+}
+
+.pdglr {
+    padding: 0% 5%;
+}
+
+.mrg {
+    margin: 5%;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
